@@ -1,5 +1,5 @@
 # Google-Fiber-Customer-Service-Tableau-Dashboard
-This is my capstone project for the Google Business Intelligence Professional Certificate. The project results in a dashboard out of the Google Fiber Customer Service dataset provided by Google instructors.
+This is my capstone project for the [_Google Business Intelligence Professional Certificate_](https://www.coursera.org/account/accomplishments/professional-cert/HPTTKJZBKW8J). The project results in a dashboard out of the Google Fiber Customer Service dataset provided by Google instructors.
 
 ## Stakeholder's Problem
 The stakeholder is the Google Fiber Customer Service Team who wants to answer these questions:
