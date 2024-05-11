@@ -9,7 +9,7 @@ The stakeholder is the Google Fiber Customer Service Team who wants to answer th
 - From which market city the customer service team receives the most repeat calls?
 
 ## My Dashboard
-![image](https://github.com/marvin-rubia/Google-Fiber-Customer-Service-Tableau-Dashboard/assets/140475770/c535d011-0d5e-46a7-8a07-81060ea713f1)
+![image](https://github.com/marvin-rubia/Google-Fiber-Customer-Service-Tableau-Dashboard/assets/140475770/11e04085-182b-4d2c-ad54-8a0db0431d8f)
 
 The provided dataset is limited to the Quarter 1 of 2022. You can interact with my dashboard here: [Google Fiber FCR Dashboard | Tableau Public](https://public.tableau.com/views/GoogleFiberFCRDashboard/Dashboard1?%3Alanguage=en-US&%3Adisplay_count=n&%3Aorigin=viz_share_link). NOTE: It is best viewed via laptop or desktop in full window. 
 
